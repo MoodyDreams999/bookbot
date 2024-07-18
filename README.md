@@ -1,2 +1,2 @@
 # bookbot
-Reads books and articles and summarizes key information
+BookBot is my first project!
